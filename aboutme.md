@@ -2,7 +2,7 @@
 layout: page
 title: About Anu Bansal
 meta-title: About me
-subtitle: "I am a fellow hustler just like you, always competing with my past self<br> "
+subtitle: "I am a fellow hustler just like you, always busy in competing with myself<br> "
 ---
 
 <div id="aboutme-section">
