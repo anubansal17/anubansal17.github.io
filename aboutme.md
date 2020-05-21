@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About Divyam Madaan
+title: About Anu Bansal
 meta-title: About me
-subtitle: "For a start, my favourite quote is, <br> Do what you love, love what you do."
+subtitle: "I am a fellow hustler just like you, always competing with my past self<br> "
 ---
 
 <div id="aboutme-section">
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-  Hi again, my name is <strong>Divyam Madaan</strong>, I am an avid open source enthusiast, contributor, and passionate about AI as a whole.
+  Hey again, my name is <strong>Anu Bansal</strong>, I am a Software Developer and passionate about solving problems through Programming.
 </p>
 
 <p class="about-text">
@@ -19,22 +19,21 @@ I obtained my Bachelor of Technology degree in <strong>Information Technology </
 
 <p class="about-text">
 <span class="fa fa-code about-icon"></span>
-I am a programmer, data scientist doing research to make the world better.
+I am a programmer, who loves solving problems through programming.
 </p>
 
 <p class="about-text">
 <span class="fa fa-heart about-icon"></span>
-I love listening to music, occasional cooking and spreading my knowledge to the community. Eager in meeting new people, to connect, discuss, network and grow, mostly at data science conferences, dev-fests, and meet-ups.
 </p>
 
 <p class="about-text">
 <span class="fa fa-envelope about-icon"></span>
-Let’s connect if you want to collab and create something awesome in the world of open source tech. Follow the social media links given below or drop a mail <a target="_blank" href="mailto:divyam3897@gmail.com">here</a>.
+Let’s connect to exchange the ideas, talks and a coffee too :P. Follow the social media links given below or drop a mail <a target="_blank" href="mailto:anubansal9999@gmail.com">here</a>.
 </p>
 
 
 <center>
-	<a href="https://twitter.com/diyam3897" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @divyam3897</a>
+	<a href="https://twitter.com/anubansal9999" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @anubansal9999</a>
 	<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </center>
 <br>
