@@ -9,12 +9,12 @@ subtitle: "A Husteler, A Dreamer, A Doer<br> "
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-  Hey again, my name is <strong>Anu Bansal</strong>, I am a Software Developer and passionate about solving problems through Programming.
+  Hey ya, my name is <strong>Anu Bansal</strong>, I am a Software Developer and passionate about solving problems through Programming.
 </p>
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-I obtained my Bachelor of Technology degree in <strong>Information Technology </strong>from Panjab University(<a target="_blank" href="http://puchd.ac.in/">PU</a>) in Chandigarh, India
+Being a part of ClassOf2020, I will be obtaining my Bachelor of Technology degree in <strong>Information Technology </strong>from Panjab University(<a target="_blank" href="http://puchd.ac.in/">PU</a>) Chandigarh, India, at the end of May'20
 </p>
 
 <p class="about-text">
