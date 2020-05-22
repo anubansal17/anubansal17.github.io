@@ -14,21 +14,22 @@ subtitle: "A Husteler, A Dreamer, A Doer<br> "
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-I obtained my Bachelor of Technology degree in <strong>Information Technology </strong>from Panjab University(<a target="_blank" href="http://puchd.ac.in/">PU</a>) in Chandigarh, India.
+I obtained my Bachelor of Technology degree in <strong>Information Technology </strong>from Panjab University(<a target="_blank" href="http://puchd.ac.in/">PU</a>) in Chandigarh, India
 </p>
 
 <p class="about-text">
 <span class="fa fa-code about-icon"></span>
-I am a programmer, who loves solving problems through programming.
 </p>
 
 <p class="about-text">
 <span class="fa fa-heart about-icon"></span>
+I am a programmer, who loves solving problems through programming
 </p>
 
 <p class="about-text">
 <span class="fa fa-envelope about-icon"></span>
-Let’s connect to exchange the ideas, talks and a coffee too :P. Follow the social media links given below or drop a mail <a target="_blank" href="mailto:anubansal9999@gmail.com">here</a>.
+Let’s connect to exchange the ideas, talks and a coffee too :P</br>
+Follow the social media links given below or drop a mail <a target="_blank" href="mailto:anubansal9999@gmail.com">here</a>
 </p>
 
 
