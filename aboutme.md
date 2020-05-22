@@ -35,7 +35,7 @@ Follow the social media links given below or drop a mail <a target="_blank" href
 
 
 <center>
-	<a href="https://twitter.com/anubansal17" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @anubansal17</a>
+	<a href="https://twitter.com/anu_bansal17" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @anubansal17</a>
 	<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </center>
 <br>
