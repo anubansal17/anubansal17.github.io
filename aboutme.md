@@ -18,7 +18,7 @@ Being a part of *Class Of 2020*, I will be obtaining my Bachelor of Technology d
 </p>
 
 <p class="about-text">
-<span class="fa fa-code about-icon">I am a Coder and consider myself as a true representation of Women In Tech</span>
+<span class="fa fa-code about-icon">I am a Coder and consider myself as a true representation of Women In Tech. You can see my programming profiles in the programming section at the top</span>
 </p>
 
 <p class="about-text">
