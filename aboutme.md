@@ -18,11 +18,13 @@ Being a part of *Class Of 2020*, I will be obtaining my Bachelor of Technology d
 </p>
 
 <p class="about-text">
-<span class="fa fa-code about-icon">I am a Coder and consider myself as a true representation of Women In Tech. You can see my programming profiles in the programming section at the top</span>
+<span class="fa fa-code about-icon"></span>
+I am a Coder and consider myself as a true representation of Women In Tech. You can see my programming profiles in the programming section at the top
 </p>
 
 <p class="about-text">
-<span class="fa fa-heart about-icon"></span>I love interacting with people of different ages, having different interests as it opens big doors of learning 
+<span class="fa fa-heart about-icon"></span> 
+I love interacting with people of different ages, having different interests as it opens big doors of learning 
 </p>
 
 <p class="about-text">
