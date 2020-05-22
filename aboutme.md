@@ -22,8 +22,8 @@ I obtained my Bachelor of Technology degree in <strong>Information Technology </
 </p>
 
 <p class="about-text">
-<span class="fa fa-heart about-icon"></span>
-I am a programmer, who loves solving problems through programming
+<span class="fa fa-heart about-icon">I am a programmer, who loves solving problems through programming</span>
+
 </p>
 
 <p class="about-text">
