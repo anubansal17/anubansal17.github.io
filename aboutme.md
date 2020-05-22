@@ -14,15 +14,15 @@ subtitle: "A Husteler, A Dreamer, A Doer<br> "
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-Being a part of ClassOf2020, I will be obtaining my Bachelor of Technology degree in <strong>Information Technology </strong>from Panjab University(<a target="_blank" href="http://puchd.ac.in/">PU</a>) Chandigarh, India, at the end of May'20
+Being a part of *Class Of 2020*, I will be obtaining my Bachelor of Technology degree in <strong>Information Technology </strong>from Panjab University(<a target="_blank" href="http://puchd.ac.in/">PU</a>) Chandigarh, India, at the end of May'20
 </p>
 
 <p class="about-text">
-<span class="fa fa-code about-icon"></span>
+<span class="fa fa-code about-icon">I am a Coder, and consider myself as a true representation of Women In Tech</span>
 </p>
 
 <p class="about-text">
-<span class="fa fa-heart about-icon">I am a programmer, who loves solving problems through programming</span>
+<span class="fa fa-heart about-icon"></span>
 
 </p>
 
