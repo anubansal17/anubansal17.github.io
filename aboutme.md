@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Anu Bansal
+title: Anu Bansal
 meta-title: About me
 subtitle: "A Husteler, A Dreamer, A Doer<br> "
 ---
