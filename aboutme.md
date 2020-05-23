@@ -32,6 +32,7 @@ I love interacting with people of different ages, having different interests as 
 Let’s connect to exchange the ideas, talks and a coffee too :P
 </p>
 <p class="about-text">
+<span class="fa fa-envelope about-icon"></span>
 Follow the social media links given below or drop a mail <a target="_blank" href="mailto:anubansal9999@gmail.com">here</a>
 </p>
 
