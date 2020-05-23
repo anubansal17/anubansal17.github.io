@@ -29,7 +29,7 @@ I love interacting with people of different ages, having different interests as 
 
 <p class="about-text">
 <span class="fa fa-envelope about-icon"></span>
-Let’s connect to exchange the ideas, talks and a coffee too :P</br>
+Let’s connect to exchange the ideas, talks and a coffee too :P
 Follow the social media links given below or drop a mail <a target="_blank" href="mailto:anubansal9999@gmail.com">here</a>
 </p>
 
@@ -38,4 +38,4 @@ Follow the social media links given below or drop a mail <a target="_blank" href
 	<a href="https://twitter.com/anu_bansal17" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @anu_bansal17</a>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </center>
-<br>
+</br>
