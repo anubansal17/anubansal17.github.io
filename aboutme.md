@@ -29,7 +29,6 @@ I love interacting with people of different ages, having different interests as 
 
 <p class="about-text">
 <span class="fa fa-envelope about-icon"></span>
-Let’s connect to exchange ideas, talks and a coffee too but after Covid-19 :P || Follow the social media links given below or drop a mail <a target="_blank" href="mailto:anubansal9999@gmail.com">here
+Let’s connect to exchange ideas, talks and a coffee too but after Covid-19 || Follow the social media links given below or drop a mail <a target="_blank" href="mailto:anubansal9999@gmail.com">here
 </p>
-
 <br>
