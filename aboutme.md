@@ -19,7 +19,7 @@ Being a part of *Class Of 2020*, I will be obtaining my Bachelor of Technology d
 
 <p class="about-text">
 <span class="fa fa-code about-icon"></span>
-I am a Coder and consider myself as a true representation of Women In Tech. Checkout my CP profiles in the Coding Profiles section at the top
+I am a Coder and consider myself as a true representation of Women In Tech. Checkout the Coding Profiles section at the top
 </p>
 
 <p class="about-text">
