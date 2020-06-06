@@ -14,12 +14,12 @@ subtitle: "A Husteler, A Dreamer, A Doer<br> "
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-Being a part of *Class Of 2020*, I will be obtaining my Bachelor of Technology degree in <strong>Information Technology </strong>from Panjab University(<a target="_blank" href="http://puchd.ac.in/">PU</a>) Chandigarh, India, at the end of May'20
+Being a part of *Class Of 2020*, I recently got graduated in Bachelor of Technology degree in <strong>Information Technology </strong>from Panjab University(<a target="_blank" href="http://puchd.ac.in/">PU</a>) Chandigarh, India
 </p>
 
 <p class="about-text">
 <span class="fa fa-code about-icon"></span>
-I am a Coder and consider myself as a true representation of Women In Tech. Checkout the Coding Profiles section at the top
+I am a Coder who loves everything related to programming, social interaction and life philosophy. Checkout the Coding Profiles section at the top
 </p>
 
 <p class="about-text">
