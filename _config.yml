@@ -23,6 +23,7 @@ description: Fueling my passion
 
 # List of links in the navigation bar
 navbar-links:
+  Blogs: "blog"
   About Me: "aboutme"
   Projects:
     - Improving Production Sized Code Coverage: "https://github.com/anubansal17/Code-Coverage-Using-Plugins"
