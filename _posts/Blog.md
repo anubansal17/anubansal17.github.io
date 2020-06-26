@@ -1,7 +1,3 @@
-> node index.js "https://medium.com/@anubansal9999/sde-intern-experience-at-finxera-chandigarh-2be9b0e127c9"
-
-[![Anu Bansal](https://miro.medium.com/fit/c/96/96/1*aruiR6WyWobB9XD9aEpXOA.png)](https://medium.com/@anubansal9999?source=post_page-----2be9b0e127c9----------------------)[Anu Bansal](https://medium.com/@anubansal9999?source=post_page-----2be9b0e127c9----------------------)Follow[May 28](https://medium.com/@anubansal9999/sde-intern-experience-at-finxera-chandigarh-2be9b0e127c9?source=post_page-----2be9b0e127c9----------------------) · 4 min read
-
 **Software Engineering Internship Experience at Finxera, Chandigarh**
 
 > Hey there! I am Anu Bansal, IT’20 student at Panjab University, Chandigarh. I am currently working as a Software Development Engineer at Finxera, Chandigarh.
@@ -10,17 +6,14 @@
 
 > Finxera is a well-established product-based start-up company, founded in 2008 in California. Its business product is used by Debt Settlement Companies outside India and it primarily deals with US-Clients.
 
-<img alt="Finxera is a well-established product based start-up company, founded in 2008 in California. Its business product is used by" class="s t u ge ai" src="https://miro.medium.com/max/1284/1\*JrGba6xVVztcIvMbabQL\_A.jpeg" width="642" height="526" srcSet="https://miro.medium.com/max/552/1\*JrGba6xVVztcIvMbabQL\_A.jpeg 276w, https://miro.medium.com/max/1104/1\*JrGba6xVVztcIvMbabQL\_A.jpeg 552w, https://miro.medium.com/max/1280/1\*JrGba6xVVztcIvMbabQL\_A.jpeg 640w, https://miro.medium.com/max/1284/1\*JrGba6xVVztcIvMbabQL\_A.jpeg 642w" sizes="642px"/>
-
 **_My Experience so far_**
 
 > My internship started with a big bang! Received a warm welcome, company goodies and a mac — Yasss, a Macbook Pro 👩‍💻
 
-<img class="s t u ge ai" src="https://miro.medium.com/max/1284/1\*eLWwhHNT\_Yl0ipxaEtmwHQ.jpeg" width="642" height="512" srcSet="https://miro.medium.com/max/552/1\*eLWwhHNT\_Yl0ipxaEtmwHQ.jpeg 276w, https://miro.medium.com/max/1104/1\*eLWwhHNT\_Yl0ipxaEtmwHQ.jpeg 552w, https://miro.medium.com/max/1280/1\*eLWwhHNT\_Yl0ipxaEtmwHQ.jpeg 640w, https://miro.medium.com/max/1284/1\*eLWwhHNT\_Yl0ipxaEtmwHQ.jpeg 642w" sizes="642px" role="presentation"/>
+![](https://github.com/anubansal17/anubansal17.github.io/blob/master/img/1_JrGba6xVVztcIvMbabQL_A.jpeg)
 
 Roses can make you fall in love with everything ❤️ and chocolates work as an icing on a cake! Yum :p
 
-<img class="s t u ge ai" src="https://miro.medium.com/max/2080/1\*5CjExYoyRpsinBcBTRhIbA.jpeg" width="1040" height="435" srcSet="https://miro.medium.com/max/552/1\*5CjExYoyRpsinBcBTRhIbA.jpeg 276w, https://miro.medium.com/max/1104/1\*5CjExYoyRpsinBcBTRhIbA.jpeg 552w, https://miro.medium.com/max/1280/1\*5CjExYoyRpsinBcBTRhIbA.jpeg 640w, https://miro.medium.com/max/1400/1\*5CjExYoyRpsinBcBTRhIbA.jpeg 700w" sizes="700px" role="presentation"/>
 
 Loved it? Me too♥️
 
