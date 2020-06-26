@@ -1,7 +1,6 @@
 **Software Engineering Internship Experience at Finxera, Chandigarh**
 
-> Hey there! I am Anu Bansal, IT’20 student at Panjab University, Chandigarh. I am currently working as a Software Development Engineer at Finxera, Chandigarh.
-
+> Hey there! I am Anu Bansal, IT’20 student at Panjab University, Chandigarh. I have been offered an SDE role for an internship and full-time at Finxera, Chandigarh through campus placements, and I am currently pursuing my 6 months internship at the company.
 **A bit about Finxera, Chandigarh**
 
 > Finxera is a well-established product-based start-up company, founded in 2008 in California. Its business product is used by Debt Settlement Companies outside India and it primarily deals with US-Clients.
