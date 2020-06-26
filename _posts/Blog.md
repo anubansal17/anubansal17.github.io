@@ -6,7 +6,7 @@
 
 **Software Engineering Internship Experience at Finxera, Chandigarh**
 
-> Hey there! I am Anu Bansal, IT’20 student at Panjab University, Chandigarh. I have been offered an SDE role for an internship and full-time at Finxera, Chandigarh through campus placements, and I am currently pursuing my 6 months internship at the company.
+> Hey there! I am Anu Bansal, IT’20 student at Panjab University, Chandigarh. I am currently working as a Software Development Engineer at Finxera, Chandigarh.
 
 **A bit about Finxera, Chandigarh**
 
