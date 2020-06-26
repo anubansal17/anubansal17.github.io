@@ -23,7 +23,7 @@ description: Fueling my passion
 
 # List of links in the navigation bar
 navbar-links:
-  Blogs: "blogs"
+  Blogs: "https://medium.com/@anubansal9999"
   Projects:
     - Improving Production Sized Code Coverage: "https://github.com/anubansal17/Code-Coverage-Using-Plugins"
     - Secured Blockchain based Exams System: "https://github.com/anubansal17/Secured-Blockchain-Based-Examination-Management-System"
