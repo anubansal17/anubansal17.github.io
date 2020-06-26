@@ -1,5 +1,3 @@
-
-> medium-to-markdown@0.0.3 convert /Users/anubansal/Downloads/Personal/medium-to-markdown
 > node index.js "https://medium.com/@anubansal9999/sde-intern-experience-at-finxera-chandigarh-2be9b0e127c9"
 
 [![Anu Bansal](https://miro.medium.com/fit/c/96/96/1*aruiR6WyWobB9XD9aEpXOA.png)](https://medium.com/@anubansal9999?source=post_page-----2be9b0e127c9----------------------)[Anu Bansal](https://medium.com/@anubansal9999?source=post_page-----2be9b0e127c9----------------------)Follow[May 28](https://medium.com/@anubansal9999/sde-intern-experience-at-finxera-chandigarh-2be9b0e127c9?source=post_page-----2be9b0e127c9----------------------) · 4 min read
