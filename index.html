@@ -1,71 +1,33 @@
 ---
 layout: page
-title: My blogs
-subtitle: A Hustler, A Dreamer, A Doer
+title: Anu Bansal
+meta-title: About me
+subtitle: "A Husteler, A Dreamer, A Doer<br> "
 ---
 
-<div class="posts-list">
-  {% for post in paginator.posts %}
-  <article class="post-preview">
-    <a href="{{ post.url | prepend: site.baseurl }}">
-	  <h2 class="post-title">{{ post.title }}</h2>
+<div id="aboutme-section">
 
-	  {% if post.subtitle %}
-	  <h3 class="post-subtitle">
-	    {{ post.subtitle }}
-	  </h3>
-	  {% endif %}
-    </a>
+<p class="about-text">
+<span class="fa fa-briefcase about-icon"></span>
+  Hey ya, my name is <strong>Anu Bansal</strong>, I am a Software Developer and passionate about solving problems through Programming.
+</p>
 
-    <p class="post-meta">
-      Posted on {{ post.date | date: "%B %-d, %Y" }}
-    </p>
+<p class="about-text">
+<span class="fa fa-graduation-cap about-icon"></span>
+Being a part of *Class Of 2020*, I recently got graduated in Bachelor of Technology degree in <strong>Information Technology </strong>from Panjab University(<a target="_blank" href="http://puchd.ac.in/">PU</a>) Chandigarh, India
+</p>
 
-    <div class="post-entry-container">
-      {% if post.image %}
-      <div class="post-image">
-        <a href="{{ post.url | prepend: site.baseurl }}">
-          <img src="{{ post.image }}">
-        </a>
-      </div>
-      {% endif %}
-      <div class="post-entry">
-        {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
-        {% assign excerpt_word_count = post.excerpt | number_of_words %}
-        {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}
-          <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
-        {% endif %}
-      </div>
-    </div>
+<p class="about-text">
+<span class="fa fa-code about-icon"></span>
+I am a Coder who loves everything related to programming, social interaction and life philosophy. Checkout the Coding Profiles section at the top
+</p>
 
-    {% if post.tags.size > 0 %}
-    <div class="blog-tags">
-      Tags:
-      {% if site.link-tags %}
-      {% for tag in post.tags %}
-      <a href="{{ site.baseurl }}/tag/{{ tag }}">{{ tag }}</a>
-      {% endfor %}
-      {% else %}
-        {{ post.tags | join: ", " }}
-      {% endif %}
-    </div>
-    {% endif %}
+<p class="about-text">
+<span class="fa fa-heart about-icon"></span> 
+I love interacting with people of different ages, having different interests as it opens big doors of learning 
+</p>
 
-   </article>
-  {% endfor %}
-</div>
-
-{% if paginator.total_pages > 1 %}
-<ul class="pager main-pager">
-  {% if paginator.previous_page %}
-  <li class="previous">
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
-  </li>
-  {% endif %}
-  {% if paginator.next_page %}
-  <li class="next">
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
-  </li>
-  {% endif %}
-</ul>
-{% endif %}
+<p class="about-text">
+<span class="fa fa-envelope about-icon"></span>
+Let’s connect on the social media links given below to exchange ideas, talks and a coffee too but after Covid-19 :P </p>
+<br>
