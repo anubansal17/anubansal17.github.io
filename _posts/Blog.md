@@ -6,16 +6,17 @@
 
 > Finxera is a well-established product-based start-up company, founded in 2008 in California. Its business product is used by Debt Settlement Companies outside India and it primarily deals with US-Clients.
 
+![](https://github.com/anubansal17/anubansal17.github.io/blob/master/img/1_JrGba6xVVztcIvMbabQL_A.jpeg)
+
 **_My Experience so far_**
 
 > My internship started with a big bang! Received a warm welcome, company goodies and a mac — Yasss, a Macbook Pro 👩‍💻
+![](https://github.com/anubansal17/anubansal17.github.io/blob/master/img/1_5CjExYoyRpsinBcBTRhIbA.jpeg)
 
-![](https://github.com/anubansal17/anubansal17.github.io/blob/master/img/1_JrGba6xVVztcIvMbabQL_A.jpeg)
 
 Roses can make you fall in love with everything ❤️ and chocolates work as an icing on a cake! Yum :p
-
-
 Loved it? Me too♥️
+![](https://github.com/anubansal17/anubansal17.github.io/blob/master/img/1_eLWwhHNT_Yl0ipxaEtmwHQ.jpeg)
 
 > Like everyone else, I too had a lot of fantasies for my first job. No matter what, your first job is always special to you -That first time traveling in local buses, having tea breaks -lunch breaks with your colleagues, and most importantly that the first salary ;) It’s all exciting, isn’t it?
 > 
@@ -25,8 +26,7 @@ Loved it? Me too♥️
 
 > At the very start, I had gone through a 2 weeks training program with 3 other placed students from my college and then after that, we hit the floor with all the product knowledge that we have gained in the training program.
 
-<img class="s t u ge ai" src="https://miro.medium.com/max/950/1\*urToejcYR7U1Q7txwbulLA.png" width="475" height="729" srcSet="https://miro.medium.com/max/552/1\*urToejcYR7U1Q7txwbulLA.png 276w, https://miro.medium.com/max/950/1\*urToejcYR7U1Q7txwbulLA.png 475w" sizes="475px" role="presentation"/>
-
+![](https://github.com/anubansal17/anubansal17.github.io/blob/master/img/1_urToejcYR7U1Q7txwbulLA.png)
 Meanwhile, I participated in the games organized by the company and also won some amazing gifts🎁
 
 > Thereafter, the company had put us in QA for around 2 weeks and it was all shocking for me. I was like, What the heck! Why would a developer need to do QA? I was all disturbed during that time, but soon I realized its importance in one’s work. Indeed, a developer can never be a great developer until he gains good product knowledge!
