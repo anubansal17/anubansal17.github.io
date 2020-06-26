@@ -26,8 +26,8 @@ Loved it? Me too♥️
 
 > At the very start, I had gone through a 2 weeks training program with 3 other placed students from my college and then after that, we hit the floor with all the product knowledge that we have gained in the training program.
 
+Meanwhile, I participated in the games organized by the company and also won some amazing gifts🎁</br>
 ![](https://github.com/anubansal17/anubansal17.github.io/blob/master/img/1_urToejcYR7U1Q7txwbulLA.png)
-Meanwhile, I participated in the games organized by the company and also won some amazing gifts🎁
 
 > Thereafter, the company had put us in QA for around 2 weeks and it was all shocking for me. I was like, What the heck! Why would a developer need to do QA? I was all disturbed during that time, but soon I realized its importance in one’s work. Indeed, a developer can never be a great developer until he gains good product knowledge!
 > 
@@ -46,5 +46,3 @@ Meanwhile, I participated in the games organized by the company and also won som
 > I worked on the project all by myself and still tries to refactor it whenever I get time from the assigned tasks. I am the owner of this project. Isn’t it amazing? You joined an organization just a few months back and you are making an impact in a positive way✨
 > 
 > I am also planning to write a new blog describing the project end to end, just to make it less challenging for you to improve the coverage of your production code in a developer style😎
-> 
-> This is my first blog, please show some love if you liked it. It would surely boost my confidence to write more shortly 🌟
