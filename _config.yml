@@ -60,7 +60,7 @@ author:
   #xing: yourname      # eg. daattali
   #stackoverflow: yourlink  # eg. "3943160/daattali"
   #snapchat: yourname  # eg. daattali
-  instagram: anu__bansal # eg. daattali
+  
   #youtube: yourlink   # eg. user/daattali or channel/daattali
   #spotify: yourname   # eg. daattali
   #telephone: yourphone   # eg. +14159998888
@@ -78,7 +78,6 @@ footer-links-active:
   xing: false
   stackoverflow: false
   snapchat: false
-  instagram: true
   youtube: false
   spotify: false
   telephone: false
