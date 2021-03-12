@@ -50,7 +50,7 @@ navbar-links:
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: AB
-  email: "anubansal9999@gmail.com"
+  # email: 
   # facebook:
   github: anubansal17   
   twitter: anu_bansal17  
@@ -69,7 +69,7 @@ author:
 footer-links-active:
   rss: false
   facebook: false
-  email: true
+  email: false
   twitter: true
   google-plus: false
   github: true
